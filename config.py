@@ -1,4 +1,4 @@
-token = '5602328734:AAESVLAuCH6g8KBbBDz0JFctLlXyUhVZFaA'
+token = '...'
 
 kittens_urls = dict(zip([i for i in range(10)], ['https://static.boredpanda.com/blog/wp-content/uploads/2016/08/cute-kittens-4-57b30a939dff5__605.jpg',
                                                     'https://i.pinimg.com/originals/a3/29/c3/a329c3e33d5cb21950d456dfb7db25d2.jpg',
